@@ -22,6 +22,6 @@
         },
         "owners": ["owners discord id"],
         "prefix": "!",
-        "description": "Verge Tipbot"
+        "description": "Bltg Tipbot"
     }
 ]}
