@@ -1,5 +1,5 @@
-# Discord-Verge-Bot
-[<img src="https://discordapp.com/api/guilds/325024453065179137/widget.png?style=shield">](https://discord.me/VergeCurrency)
+# Discord-BLTG-Bot
+[<img src="https://discordapp.com/api/guilds/398833837410484234/widget.png?style=shield">](https://discord.me/VergeCurrency)
 
 
 These files are intended to function as a multi-functional tipbot for Verge Currency
@@ -8,7 +8,7 @@ These files are intended to function as a multi-functional tipbot for Verge Curr
 * discord.py installed
 * Python 3.5+
 * A mySQL database
-* The Verge wallet w/ RPC enabled.
+* The Bltg wallet w/ RPC enabled.
 
 # Functions
 * Display general wallet information
